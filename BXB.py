@@ -1,2 +1,2 @@
-from ali import buy
-buy()
+from BXB import menu
+menu()
