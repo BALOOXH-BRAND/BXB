@@ -1,2 +1,2 @@
-from BXB1 import menu
+from BXB64 import menu
 menu()
