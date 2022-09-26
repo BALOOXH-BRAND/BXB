@@ -1,2 +1,2 @@
-from m1 import menu
+from BXB1 import menu
 menu()
