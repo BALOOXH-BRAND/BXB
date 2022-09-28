@@ -1,2 +1,1 @@
-from BXB10 import menu
-menu()
+from BXB import
