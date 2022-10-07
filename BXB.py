@@ -8,4 +8,4 @@ import requests
 os.system('git pull')
 bit = platform.architecture()[0]
 if bit == '64bit':
-    import javed
+    import BXB
